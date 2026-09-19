@@ -1,3 +1,4 @@
+@import url("https://fonts.cdnfonts.com/css/samarkan");
 @import "tailwindcss";
 
 @theme {
@@ -24,7 +25,7 @@
   --color-google-gray-900: #202124;
 
   --font-sans: "Google Sans", "Plus Jakarta Sans", Inter, system-ui, sans-serif;
-  --font-display: "Space Grotesk", "Google Sans", sans-serif;
+  --font-display: "Samarkan", "Space Grotesk", "Google Sans", sans-serif;
   --font-mono: "Fira Code", monospace;
   --font-serif: "Newsreader", Georgia, serif;
 
